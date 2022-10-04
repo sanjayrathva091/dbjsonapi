@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "sanjay",
+            "course": "RCT211",
+            "company": "amazon"
+        },
+        {
+            "id": 2,
+            "name": "rahul",
+            "course": "RCT211",
+            "company": "netflix"
+        }
+    ]
+}
